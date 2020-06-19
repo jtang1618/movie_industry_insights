@@ -1,0 +1,10 @@
+
+Index(['id', 'original_title', 'popularity', 'release_date_x', 'title',
+       'vote_average', 'vote_count', 'Comedy', 'Action', 'Adventure',
+       'TV Movie', 'History', 'Science Fiction', 'Thriller', 'Mystery',
+       'Horror', 'Crime', 'Family', 'Western', 'War', 'Documentary', 'Music',
+       'Drama', 'Animation', 'Romance', 'Fantasy', 'original_language',
+       'release_date_y', 'movie', 'production_budget', 'domestic_gross',
+       'worldwide_gross', 'worldwide_budget_gross_diff',
+       'domestic_budget_gross_diff'],
+      dtype='object')
