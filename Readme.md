@@ -61,24 +61,14 @@ We saw a direct correlation across data sets between directors, net revenue and 
 
 ### Language Markets
 
-notebook: <a href="https://github.com/kathanner/movie_industry_insights/blob/jtang_analysis/f3_Languages%20-%20Joe.ipynb">f3_Languages - Joe.ipynb</a>
+notebook: <a href="https://github.com/kathanner/movie_industry_insights/blob/master/f4_Languages.ipynb">f4_Languages.ipynb</a>
 
-We took a look at how language is represented in the film industry 
-* And we’re seeing that English makes up 88% of films vs. 12% for non-English films 
+![Top10ne.png](Top10ne.png)
 
-In that 12%, which includes 75 languages—
-* The top 10 are clustered around languages spoken in Europe & Asia, in countries with a history of film-making
-		France: birthplace of cinema
-		India & China, which is represented by multiple languages, further down the list
-
-And then looking at the non-English films we do have the numbers for, the top 10 Grossing films brought in about $762 mil worldwide, with a net revenue of about $583 mil. 
-* Contrast that to the top 10 grossing English films at roughly $18 billion.
-
-Our takeaway here confirming our assumptions, that the audience for films made in English is much larger than for non-English films, in U.S. as well as worldwide.
-
-~3000 non-English films vs ~21k English films
-French [479]  | Spanish [432] | Russian [295] | Japanese [243] | German [224] | Mandarin [174] | Hindi [168] | Italian [118] | Portugues [93] | Korean [92]
-
+We looked at how language is represented in the film industry and we saw that English makes up 88% of films vs. 12% for non-English films. In that 12%, which includes 75 language, the top 10 occuring languages are clustered around ones spoken in Europe & Asia, in countries with a history of film-making: 
+		* France - birthplace of cinema
+		* India & China - represented by multiple languages further down the list
+And then looking at the non-English films we do have the figures for, the top 10 grossing films brought in about $762 million worldwide, with a net revenue of about $583 mil. Contrast that to the top 10 grossing English films at roughly $18 billion and it's a drop in the bucket. Our takeaway here confirms our assumptions, that the audience for films made in English is much larger than for non-English films, in U.S. as well as worldwide.
 
 ### Overall Recommendations
 
